@@ -3,7 +3,7 @@
 A simplistic clean and minimal theme for rEFInd
 
 
-![Screenshot 01](http://i.imgur.com/wQQ5OiQ.png)
+![Screenshot 01](https://i.imgur.com/foKbI3Q.png)
 **press F10 to take screenshot
 
 
@@ -42,3 +42,17 @@ A simplistic clean and minimal theme for rEFInd
 **More information**
 
 [rEFInd](http://www.rodsbooks.com/refind/) An official rEFInd website
+
+## Modified
+
+* `selection_big.png` and `selection_small.png` 
+  * Based on the [rEFInd OS X theme](https://www.deviantart.com/naymlezwun/art/rEFInd-OS-X-Theme-469807750) created by: naymlexwun
+
+* `os_kali.png`
+  * From [PhineasPhreak](https://github.com/PhineasPhreak)'s avatar
+
+* `refind.conf`
+  * Change settings: timeout, hideui, showtools, dont_scan_dirs, default_selection and include `theme.conf`
+
+* `refind_linux.conf`
+  * conf for my old laptop
